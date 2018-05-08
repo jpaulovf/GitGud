@@ -16,7 +16,7 @@ int main(int argc, char *argv[]){
 
    // Printing "FOO BAR" NUMBER_OF_THINGS times
    for (i=0; i<NUMBER_OF_THINGS; i++){
-      foo_bar();
+      foobar();
    }
 
    return 0;
